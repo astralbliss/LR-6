@@ -1,0 +1,1 @@
+home_directory = /Users/annagolovkina/Anna/учёба (серьёзная)/Практикум по программированию/директория
